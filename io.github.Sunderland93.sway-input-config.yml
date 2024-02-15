@@ -9,8 +9,6 @@ cleanup-commands:
 build-options:
   env:
     - BASEAPP_REMOVE_WEBENGINE=1
-finish-args:
-  - --env=QTWEBENGINEPROCESS_PATH=/app/bin/QtWebEngineProcess
 command: sway-input-config
 rename-desktop-file: sway-input-config.desktop
 rename-icon: sway-input-config
