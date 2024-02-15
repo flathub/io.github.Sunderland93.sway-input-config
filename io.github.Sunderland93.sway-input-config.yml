@@ -41,6 +41,6 @@ modules:
   build-commands:
    - pip3 install --prefix=/app --no-deps .
   sources:
-   - type: archive
-     url: https://github.com/Sunderland93/sway-input-config/archive/refs/tags/v1.4.0.tar.gz
-     sha256: df368de1ed425e1ffd0c27d3168849a55b90b55b1f1aef1d4100641bdf8b19fa
+   - type: git
+     url: https://github.com/Sunderland93/sway-input-config
+     commit: ab67642d9a5ddb69e7895d536b4633a77a71a12d
