@@ -1,0 +1,4 @@
+[submodule "com.riverbankcomputing.PyQt.BaseApp"]
+	path = com.riverbankcomputing.PyQt.BaseApp
+	url = https://github.com/flathub/com.riverbankcomputing.PyQt.BaseApp
+	branch = branch/6.5
