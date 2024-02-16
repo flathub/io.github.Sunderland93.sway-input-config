@@ -43,4 +43,4 @@ modules:
   sources:
    - type: git
      url: https://github.com/Sunderland93/sway-input-config
-     commit: ab67642d9a5ddb69e7895d536b4633a77a71a12d
+     commit: d5a413cbdaa1e665e48eb9e9f8bb47da651c85bd
