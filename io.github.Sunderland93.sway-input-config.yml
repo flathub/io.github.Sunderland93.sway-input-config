@@ -44,4 +44,4 @@ modules:
   sources:
    - type: archive
      url: https://github.com/Sunderland93/sway-input-config/archive/refs/tags/v1.4.1.tar.gz
-     sha256: effeb9da73d66b11c450e7ebdc195b9cf40cc4e2a8099a2a8eac23b0b5d0d113
+     sha256: 66ee6b2677bcdc274c03e19edeb9103f84e922ce901609404e9975c4535ac37b
