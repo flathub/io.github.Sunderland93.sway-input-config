@@ -14,6 +14,7 @@ rename-desktop-file: sway-input-config.desktop
 rename-icon: sway-input-config
 finish-args:
 - "--socket=wayland"
+- "--fallback-x11"
 - "--device=dri"
 - "--filesystem=/run/user:ro"
 - "--filesystem=xdg-config/sway"
